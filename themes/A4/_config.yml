@@ -28,7 +28,7 @@ index:  # 首页相关配置
   hitokoto: false # 一言：调用网络语句展示的接口
   footer: Email:rinai@g-rinai.cn # 除了可以填写任何文字外，可以自动邮箱链接化，但需按照这个格式填写：Email:xxx@gmail.com
   titlePosition: left # center | left  # 首页标题的位置
-  width: middle  # small | middle | big # 首页的宽度
+  width: small  # small | middle | big # 首页的宽度
 
 footerLink: # 底部的链接自定义
   info: © 1949-2024 China  # info这个单词不能修改，不想使用可为空
@@ -46,8 +46,8 @@ post:
   
 # 相对于source目录下的头像url
 favicon: /img/icon.jpg # 默认方形头像
-isRoundedAvatar: false # 是否圆形头像
-isAvatarRotating: false # 圆形头像是否开启悬浮旋转
+isRoundedAvatar: true # 是否圆形头像
+isAvatarRotating: true # 圆形头像是否开启悬浮旋转
 
 # 是否启用一些特色工具 false | true
 tool:
@@ -139,13 +139,13 @@ lightgallery:
 # 评论插件：需要根据教程自行部署评论服务
 # ---------------------------------------------------------------------------------------
 comment:
-  enable: false 
+  enable: true 
   use: waline # values: waline、twikoo、artalk
 
   # Waline
   # See: https://waline.js.org/guide/get-started.html
   waline:
-    serverUrl:  # Waline server url(vercel) example: https://example.example.com
+    serverUrl: https://waline-cvxa0udlo-rinai-rs-projects.vercel.app/
     lang: zh-CN # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
     placeholder: 留下你的评论吧。 # 评论框背景信息
 
