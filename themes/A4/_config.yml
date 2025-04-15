@@ -145,9 +145,9 @@ comment:
   # Waline
   # See: https://waline.js.org/guide/get-started.html
   waline:
-    serverUrl: https://waline-cvxa0udlo-rinai-rs-projects.vercel.app/
+    serverUrl: https://waline-pxeauwgcc-rinai-rs-projects.vercel.app/
     lang: zh-CN # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
-    placeholder: 留下你的评论吧。 # 评论框背景信息
+    placeholder: 单击这里输入评论😇😇😇 # 评论框背景信息
 
   # Twikoo
   # See: https://twikoo.js.org/quick-start.html
