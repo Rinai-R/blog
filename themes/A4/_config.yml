@@ -51,7 +51,7 @@ isAvatarRotating: true # 圆形头像是否开启悬浮旋转
 
 # 是否启用一些特色工具 false | true
 tool:
-  darkMode: true # 暗黑模式
+  darkMode: false # 暗黑模式
   returnToTop: true # 回到顶部按钮 
   returnToLast: true # 回退页面按钮
   topToc: true # 文章顶部目录
