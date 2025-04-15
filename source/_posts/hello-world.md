@@ -1,38 +1,39 @@
 ---
-title: Hello World
+title: 今天弄好了一个窝
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
++++
 
-## Quick Start
+===
 
-### Create a new post
+## 一切的起源
 
-``` bash
-$ hexo new "My New Post"
+今天花了两个小时左右给整好了，以后就不在csdn上面发牢骚了，当然，技术类的还会继续发在上面，关于个人的，倒是会集中在这里。😎
+
+索性现在就随便写一些：
+
+最近准备期中考试了，过两天就是高数了，一点没**预习**，前两天把大物和线代速通了，争取这两天速通高数吧，内容倒是也不算太多，希望我没事。
+
+感觉期中复习真的是花费了很多没有意义的时间，这个网站也是，高数学烦了才来索性搭一个的，并且今天硬控课比较多，都是碎片化的时间，不利于学习，那么直接来试着用一下hexo来搭建blog了，主题方面也是采用了[A4主题](https://github.com/HiNinoJay/hexo-theme-A4)，这个简洁风格我还挺喜欢的，像万神他们那种感觉太简洁了，甚至代码块都是那种样子😨，在hexo主题库里面随便翻翻一下子就中意这个主题了😇。
+
+## 接下来是一些测试
+
+```go
+package main
+
+func main() {
+    //代码块测试
+    return
+}
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+> 例子测试
+>
+> - 第一个例子
+> - 第二个例子
+>
+> 1. 数字测试
+> 2. 数字二
 
-### Run server
+## 也差不多就这样吧
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+结束✨
