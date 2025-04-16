@@ -1018,7 +1018,7 @@ span[alt=highlight] {
 /* ---------------->> 主界面背景图片 <<---------------- */
 content {
     background-color: transparent;
-    background-image: url('./onelight/img/bg4.gif');
+    background-image: url('./onelight/img/bg.gif');
     background-position: 100% 100%;
     background-repeat: no-repeat;
     background-size: 200px auto;

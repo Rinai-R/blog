@@ -181,9 +181,11 @@
       <% for (let i = 0; i < allYearList.size(); i++) { %>
         <% var year = allYearList.get(i) %>
         <li>
-          <span class="year-font-color"><%= year %>[<%= hashmap.get(year).size() %>]
-            <% if(i==0) { %> <span class="darkmode-ignore">🍃</span> <% } %>
+          <span class="year-font-color" style="white-space: nowrap;">
+            <%= year %>[<%= hashmap.get(year).size() %>篇文章]
+            <% if(i==0) { %><span class="darkmode-ignore">🧭</span><% } %>
           </span>
+          
         </li>
         <% var thisYearPostList = hashmap.get(year) %>
         <% for(var j = 0; j < thisYearPostList.size(); j++) { %>
