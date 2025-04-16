@@ -103,16 +103,22 @@ cdn:
 # 设置为 false 为 A4 默认灰白色调，可设置为 true 直接启动 体验下 另一种护眼预置色调
 # 注：颜色代码需加“#”，颜色单词不需要加“#”
 # 更多A4色调搭配推荐：https://ninojay.top/hexoplugin/A4-color-change/
-color: 
-  enable: false # true | false 
-  font: "#9e5345" # 字体颜色
-  background: "#e8e0c9" # 最底部层背景颜色
-  indexBackGround: "#efeae2" # 首页层颜色
-  postBackGround: "#efeae2" # 文章页层颜色
-  codeBackGround: "#e8e0c9" # 代码块背景颜色
-  codeFont: "#2e5041" # 代码块字体颜色 
-  linkBeforeClick: "#2e5041" # 链接点击前的颜色
-  linkAfterClick: "#9c9caf" # 链接点击后的颜色
+# 实验性功能：A4色调调整：颜色搭配是很主观的行为
+# 设置为 false 为 A4 默认色调，可设置为 true 直接hexo s 体验下 另一种预置色调
+# 注：颜色代码需加“#”，颜色单词不需要加“#”
+color:
+  enable: true
+  font: "#1a1a1a"                   # 正文字体颜色（深灰黑）
+  background: "#ffffff"            # 最底部层背景颜色（白）
+  indexBackGround: "#ffffff"       # 首页背景色
+  postBackGround: "#ffffff"        # 文章页背景色
+  codeBackGround: "#f5f5f5"        # 代码块背景（浅灰）
+  codeFont: "#2e2e2e"              # 代码字体颜色（深灰）
+  linkBeforeClick: "#4a6cf7"       # 链接颜色（蓝紫）
+  linkAfterClick: "#3a50d9"        # 链接点击后的颜色（略深）
+
+
+
 
 # A4背景引入图片
 # 图片你应该先放到 source下，下面选项的图片路径 即为 相对于 source 目录的路径
