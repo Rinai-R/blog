@@ -15,7 +15,8 @@ Github主页：https://github.com/Rinai-R
 
 写过的一些玩具：https://github.com/R-Goys
 
-个人的笔记站✒️，一半来说写的文章都会首先发在这上面：https://rs-notes.gitbook.io/r
+个人的笔记站✒️，一般来说写的文章都会首先发在这上面：https://rs-notes.gitbook.io/r
 
 发在平台上面的一些博客(不定期更新)：[blog-csdn](https://blog.csdn.net/qq_60409213?spm=1010.2135.3001.5421)
 
+![11](C:\Users\chenyue\Desktop\PrOJECT\blog\source\about\assets\11.png)
