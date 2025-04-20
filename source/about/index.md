@@ -19,4 +19,3 @@ Github主页：https://github.com/Rinai-R
 
 发在平台上面的一些博客(不定期更新)：[blog-csdn](https://blog.csdn.net/qq_60409213?spm=1010.2135.3001.5421)
 
-![11](./assets/11.png)
