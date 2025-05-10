@@ -39,7 +39,7 @@ footerLink: # 底部的链接自定义
   # ...
 
 post:
-  footer: 🌊看过大海的人不会忘记海的广阔🌊
+  footer: 🌊且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。🌊
   themeInfo: true # 是否开启底部右侧声明本站信息
   width: middle  #  middle | big 
   titlePosition: center # left ｜ center 文章标题的位置
