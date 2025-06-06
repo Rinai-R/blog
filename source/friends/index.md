@@ -1,17 +1,17 @@
 ---
-title: friends
+=title: friends
 date: 2025-04-15 16:42:19
 ---
 
----
+这里是友情链接~
 
-
+按照友链添加的时间先后排序
 
 <div class="friend-link-wrapper" style="display: flex; align-items: center; gap: 80px;">
     <div class="friend-link-container" style="display: flex; align-items: center;">
         <div class="friend-link-box" style="display: flex; align-items: center;">
             <aside class="friend-link-avatar">
-                <img src="../img/general.jpg" alt="头像" style="width: 68px; height: 68px; border-radius: 50%; margin-right: 20px;"/>
+                <img src="../img/general.jpg" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
@@ -29,7 +29,7 @@ date: 2025-04-15 16:42:19
     <div class="friend-link-container" style="display: flex; align-items: center;">
         <div class="friend-link-box" style="display: flex; align-items: center;">
             <aside class="friend-link-avatar">
-                <img src="../img/042.jpg" alt="头像" style="width: 68px; height: 68px; border-radius: 50%; margin-right: 20px;"/>
+                <img src="../img/042.jpg" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
@@ -42,11 +42,12 @@ date: 2025-04-15 16:42:19
 </div>
 
 
+
 <div class="friend-link-wrapper" style="display: flex; align-items: center; gap: 80px;">
     <div class="friend-link-container" style="display: flex; align-items: center;">
         <div class="friend-link-box" style="display: flex; align-items: center;">
             <aside class="friend-link-avatar">
-                <img src="../img/twind.jpg" alt="头像" style="width: 68px; height: 68px; border-radius: 50%; margin-right: 20px;"/>
+                <img src="../img/twind.jpg" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
@@ -64,7 +65,7 @@ date: 2025-04-15 16:42:19
     <div class="friend-link-container" style="display: flex; align-items: center;">
         <div class="friend-link-box" style="display: flex; align-items: center;">
             <aside class="friend-link-avatar">
-                <img src="../img/senyu.png" alt="头像" style="width: 68px; height: 68px; border-radius: 50%; margin-right: 20px;"/>
+                <img src="../img/senyu.png" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
@@ -77,12 +78,11 @@ date: 2025-04-15 16:42:19
 </div>
 
 
-
 <div class="friend-link-wrapper" style="display: flex; align-items: center; gap: 80px;">
     <div class="friend-link-container" style="display: flex; align-items: center;">
         <div class="friend-link-box" style="display: flex; align-items: center;">
             <aside class="friend-link-avatar">
-                <img src="../img/dae.png" alt="头像" style="width: 68px; height: 68px; border-radius: 50%; margin-right: 20px;"/>
+                <img src="../img/dae.png" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
@@ -93,4 +93,3 @@ date: 2025-04-15 16:42:19
         </div>
     </div>
 </div>
-
