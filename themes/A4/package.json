@@ -2,7 +2,7 @@
   "name": "hexo-theme-a4",
   "version": "1.9.7",
   "private": false,
-  "description": "A hexo theme that looks like an A4 paper.",Add commentMore actions
+  "description": "A hexo theme that looks like an A4 paper.",
   "scripts": {
     "npm:publish": "npm publish",
     "format": "prettier --write ./source/js/*.js ./scripts ",
