@@ -93,3 +93,21 @@ date: 2025-04-15 16:42:19
         </div>
     </div>
 </div>
+
+
+<div class="friend-link-wrapper" style="display: flex; align-items: center; gap: 80px;">
+    <div class="friend-link-container" style="display: flex; align-items: center;">
+        <div class="friend-link-box" style="display: flex; align-items: center;">
+            <aside class="friend-link-avatar">
+                <img src="https://met6.top/res/logo.png" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
+            </aside>
+            <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
+                <div class="friend-link-title">
+                    <a href="https://met6.top/" style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 22px;">MeTの主页</a>
+                </div>
+                <div class="friend-link-description" style="color: #888; font-size: 16px;">Stay Hungry. Stay Foolish. 求知若渴，大智若愚。</div>
+            </div>
+        </div>
+    </div>
+</div>
+
