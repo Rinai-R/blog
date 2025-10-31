@@ -120,11 +120,10 @@ date: 2025-04-15 16:42:19
             </aside>
             <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
                 <div class="friend-link-title">
-                    <a href="https://maomengblog.vercel.app/" style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 22px;">MaoMeng's secrete home</a>
+                    <a href="https://maomengblog.vercel.app/" style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 22px;">MaoMeng's secret home</a>
                 </div>
                 <div class="friend-link-description" style="color: #888; font-size: 16px;">我喜欢你</div>
             </div>
         </div>
     </div>
 </div>
-
