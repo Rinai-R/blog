@@ -111,3 +111,20 @@ date: 2025-04-15 16:42:19
     </div>
 </div>
 
+
+<div class="friend-link-wrapper" style="display: flex; align-items: center; gap: 80px;">
+    <div class="friend-link-container" style="display: flex; align-items: center;">
+        <div class="friend-link-box" style="display: flex; align-items: center;">
+            <aside class="friend-link-avatar">
+                <img src="../img/cat.png" alt="头像" style="width: 65px; height: 65px; border-radius: 50%; margin-right: 20px;"/>
+            </aside>
+            <div class="friend-link-meta" style="display: flex; flex-direction: column; justify-content: center;">
+                <div class="friend-link-title">
+                    <a href="https://maomengblog.vercel.app/" style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 22px;">MaoMeng's secrete home</a>
+                </div>
+                <div class="friend-link-description" style="color: #888; font-size: 16px;">我喜欢你</div>
+            </div>
+        </div>
+    </div>
+</div>
+
